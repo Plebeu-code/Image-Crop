@@ -19,7 +19,7 @@ Bem-Vindo(a)
 
 - Mobile
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/560251522127101972/758077464005181510/unknown.png?width=253&height=499g" width="500" >
+  <img src="https://media.discordapp.net/attachments/560251522127101972/758077464005181510/unknown.png?width=253&height=499" width="500" >
 </p>
 
 ---
